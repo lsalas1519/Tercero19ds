@@ -1,1 +1,3 @@
 # Tercero19ds
+Primera parcial de estructura de datos...
+3°D 
